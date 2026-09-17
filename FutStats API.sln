@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutStats API", "FutStats API\FutStats API.csproj", "{F00CAA0B-1FD4-4EE1-9B7C-BD9BA5374CB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutStatsAPI.Domain", "FutStatsAPI.Domain\FutStatsAPI.Domain.csproj", "{77BBB2D5-5B4A-4049-8CF6-BB9E5A9E8D04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutStats.Application", "FutStats.Application\FutStats.Application.csproj", "{652FEC8A-DB27-43B8-ACA4-B8A49D9267D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutStatsAPI.Infrastructure", "FutStatsAPI.Infrastructure\FutStatsAPI.Infrastructure.csproj", "{1B6E5015-94EE-4A0F-B38C-3288FBE622E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutStatsAPI.Tests.Unit", "FutStatsAPI.Tests.Unit\FutStatsAPI.Tests.Unit.csproj", "{E6EA3A7D-A6A5-4F83-B743-8F341C5663A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutStatsAPI.Tests.Integration", "FutStatsAPI.Tests.Integration\FutStatsAPI.Tests.Integration.csproj", "{2C11DF83-34E0-4BCB-AB3B-F9163B874F50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F00CAA0B-1FD4-4EE1-9B7C-BD9BA5374CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00CAA0B-1FD4-4EE1-9B7C-BD9BA5374CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00CAA0B-1FD4-4EE1-9B7C-BD9BA5374CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00CAA0B-1FD4-4EE1-9B7C-BD9BA5374CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77BBB2D5-5B4A-4049-8CF6-BB9E5A9E8D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BBB2D5-5B4A-4049-8CF6-BB9E5A9E8D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BBB2D5-5B4A-4049-8CF6-BB9E5A9E8D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BBB2D5-5B4A-4049-8CF6-BB9E5A9E8D04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{652FEC8A-DB27-43B8-ACA4-B8A49D9267D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{652FEC8A-DB27-43B8-ACA4-B8A49D9267D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{652FEC8A-DB27-43B8-ACA4-B8A49D9267D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{652FEC8A-DB27-43B8-ACA4-B8A49D9267D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6E5015-94EE-4A0F-B38C-3288FBE622E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6E5015-94EE-4A0F-B38C-3288FBE622E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6E5015-94EE-4A0F-B38C-3288FBE622E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6E5015-94EE-4A0F-B38C-3288FBE622E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6EA3A7D-A6A5-4F83-B743-8F341C5663A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6EA3A7D-A6A5-4F83-B743-8F341C5663A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6EA3A7D-A6A5-4F83-B743-8F341C5663A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6EA3A7D-A6A5-4F83-B743-8F341C5663A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C11DF83-34E0-4BCB-AB3B-F9163B874F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C11DF83-34E0-4BCB-AB3B-F9163B874F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C11DF83-34E0-4BCB-AB3B-F9163B874F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C11DF83-34E0-4BCB-AB3B-F9163B874F50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
