@@ -8,9 +8,9 @@ Projeto desenvolvido para o Checkpoint 4 — Advanced Business Development with 
 
 | Nome | RM |
 |---|---|
-| [Nome completo] | RM561995 |
-| [Nome completo] | RM |
-| [Nome completo] | RM |
+| [Gabriel Müller] | RM561995 |
+| [Pedro Ferreira] | RM565824 |
+| [Jonas Santos] | RM563234 |
 
 ## 📖 Descrição do projeto
 
